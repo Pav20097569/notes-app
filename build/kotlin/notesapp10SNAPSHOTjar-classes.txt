@@ -1,0 +1,1 @@
+C:\Users\School\notes-app\build\classes\kotlin\main\MainKt.class;C:\Users\School\notes-app\build\classes\kotlin\main\utils\ScannerInput.class
