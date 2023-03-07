@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4807c917-e2c8-4f51-8148-18e39fa6b7c0" name="Changes" comment="Added Logging capabilities to function calls" />
+    <list default="true" id="4807c917-e2c8-4f51-8148-18e39fa6b7c0" name="Changes" comment="Added A readMe file">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678192694319</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added A readMe file">
+      <created>1678193856387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678193856387</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added A readMe file">
+      <created>1678193921156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678193921156</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +139,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Implement ScannerInput utility for robust console IO" />
     <MESSAGE value="Added Logging capabilities to function calls" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Logging capabilities to function calls" />
+    <MESSAGE value="Added A readMe file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added A readMe file" />
   </component>
 </project>
